@@ -16,7 +16,7 @@ Once installed, you'll be able to sort entries on the custom channel fields, mem
 ## ChangeLog
 
 ### 1.4.3
-- Changed paramters parsing to conform with URL changes in EE 2.8.1
+- Changed parameters parsing to conform with URL changes in EE 2.8.1
 
 ### 1.4.2
 - Fix a bug that was stopping the publish page from displaying Draggable
